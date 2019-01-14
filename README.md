@@ -1,6 +1,7 @@
 # Udacity-project---Blog
 Udacity project - Blog: Explaning variation in prices on AirBnB
 
+Link to blog post: https://medium.com/@patrick.ring/which-variables-determine-prices-for-overnight-stays-on-the-platform-airbnb-76cbdc0e9597
 
 # Which variables determine prices for overnight stays on the platform AirBnb?
 
