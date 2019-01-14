@@ -10,7 +10,7 @@ AirBnb is an important platform for privately renting out apartments and single 
 First, I take a closer look at the distribution of prices with the Seattle AirBNB Data to identify the existing variation. Then, I study the relation between prices, characteristics of the apartment, review rating scores and information on the host in three separate analysis. Finally, I build a prediction model that effectively predicts the price a new host may charge for an overnight stay. I hope that this tool will be helpful for anyone who is thinking about renting out his or her apartment/room. 
 
 # What variation in prices exists?
-The average price for a overstay night at AirBnB in the Seatle Data is $127.98; while the minimum price is $20 and the maxium price $1.000. This shows the high variablity in prices in this dataset and also the value of developing a tool that can help new hosts to set an appropriate price. The full distribution of prices is shown in the following figure:
+The average price for a overstay night at AirBnB in the Seatle Data is $127.98; while the minimum price is $20 and the maxium price $1.000. This shows the high variablity in prices in this dataset and also the value of developing a tool that can help new hosts to set an appropriate price. The full distribution of prices is shown in the attached notebook.
 
 
 # How does the price of an apartment depend on the characteristics of the apartment?
