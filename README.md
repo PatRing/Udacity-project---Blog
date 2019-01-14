@@ -12,6 +12,7 @@ First, I take a closer look at the distribution of prices with the Seattle AirBN
 # What variation in prices exists?
 The average price for a overstay night at AirBnB in the Seatle Data is $127.98; while the minimum price is $20 and the maxium price $1.000. This shows the high variablity in prices in this dataset and also the value of developing a tool that can help new hosts to set an appropriate price. The full distribution of prices is shown in the following figure:
 
+
 # How does the price of an apartment depend on the characteristics of the apartment?
 In the next step, I relate prices to the characteristics of the apartments such as size in square feet, number of bedrooms and bathrooms, and the type of apartment (private room vs. whole apartment). From this analysis, we learn that -- as expected -- larger apartments with more beds and bathrooms are typically more expense. Furthermore, an entire apartment is more expense to rent than a single or shared room.
 
